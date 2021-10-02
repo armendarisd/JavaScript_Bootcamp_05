@@ -1,5 +1,6 @@
 function my_add(nbr1, nbr2){
-    let value 
+    let value;
+    value = nbr1 + nbr2;
     return value;
 
 }
